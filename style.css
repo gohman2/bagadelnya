@@ -1,4 +1,9 @@
 body{
-    background: aqua;
+    background: blue;
+    margin: 0 auto;
+}
 
+p{
+    padding: 0;
+    color: red;
 }
